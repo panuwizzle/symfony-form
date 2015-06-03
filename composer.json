@@ -1,0 +1,16 @@
+{
+    "name": "root/symfony-form",
+    "require": {
+        "symfony/form": "^2.7",
+        "symfony/validator": "^2.7",
+        "symfony/translation": "^2.7",
+        "symfony/twig-bridge": "^2.7",
+        "symfony/config": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "Moo",
+            "email": "sukorn@gmail.com"
+        }
+    ]
+}
